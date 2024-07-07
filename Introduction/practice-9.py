@@ -22,4 +22,5 @@ for i in range(1, c + 1):
     f = f * i
 
 # Calculate and print the result of (a+b)/c
-print((a + b) / c)
+result = (a + b) / c
+print(f"The result of (!{a} + !{b}) / !{c} is: {result}")
