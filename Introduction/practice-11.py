@@ -1,4 +1,4 @@
-## Practice 10 :
+## Practice 11 :
 # Prime Number Counter
 
 def is_prime(number):
